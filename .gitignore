@@ -1,0 +1,7 @@
+**/metastore_db
+**/notMNIST_large
+**/notMNIST_small
+*.log
+*.pickle
+*.gz
+*.zip
