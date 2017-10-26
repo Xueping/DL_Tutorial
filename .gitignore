@@ -5,3 +5,4 @@
 *.pickle
 *.gz
 *.zip
+/.ipynb_checkpoints
