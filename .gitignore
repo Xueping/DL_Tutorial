@@ -6,3 +6,6 @@
 *.gz
 *.zip
 /.ipynb_checkpoints
+**/aclImdb
+**/glove
+**/jena_climates
