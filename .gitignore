@@ -9,3 +9,4 @@
 **/aclImdb
 **/glove
 **/jena_climates
+*.h5
